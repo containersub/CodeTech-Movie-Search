@@ -114,3 +114,6 @@ This is a web application that allows users to search for movies and discover in
 ```
 
 Remember to replace the bracketed placeholders with the actual details of your project. Good luck with your GitHub upload!
+
+**Output:**
+![Image](https://github.com/user-attachments/assets/df8ebc91-8da3-4bf8-9f04-126407fdceed)
